@@ -1,6 +1,5 @@
-# ☁️ AWS User Group Puebla
+# ☁️ ¡Bienvenid@ al repositorio oficial del **AWS User Group Puebla**!
 
-¡Bienvenid@ al repositorio oficial del **AWS User Group Puebla**!
 
 Somos la **primera comunidad de AWS en Puebla**, un grupo apasionado por Amazon Web Services y su ecosistema. Creamos este espacio para que profesionales, estudiantes y entusiastas de la tecnología puedan **aprender, colaborar y compartir conocimientos**, todo en un ambiente amigable… ¡y con buena comida! 😄
 
