@@ -61,4 +61,4 @@ Te esperamos en nuestro próximo encuentro para seguir creciendo juntos, en comu
 
 ---
 
-**¡Gracias por ser parte del AWS User Group Puebla!**
+## **¡Gracias por ser parte del AWS User Group Puebla!** 🚀
